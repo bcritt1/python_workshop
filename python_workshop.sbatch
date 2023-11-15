@@ -6,7 +6,9 @@
 #SBATCH -c 1
 #SBATCH --mem=32GB
 
-#next, use ml to load the python3 module, and then use pip3 install to load your dependencies.
+#TODO use ml to load the python3 module
+
+#TODO use pip3 install to load your dependencies
 
 #finally, run the script
 python3 python_workshop.py
